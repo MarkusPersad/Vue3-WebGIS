@@ -1,13 +1,16 @@
 {
     "FileDescription":{
-        "Name":"CesiumProperties",
+        "Name":"CesiumArcGISProperties",
         "Version":"1.0",
         "Author":"Markus Tomas",
         "Date":"2024-3-28",
-        "Description":"This file contains the properties of the CesiumJS library."
+        "Description":"This file contains the properties of the CesiumJS library and ArcGIS library."
     },
     "CesiumProperties":{
         "CesiumPath":"../node_modules/cesium/Build/Cesium/Cesium.js",
         "AccessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI4NDMzZDdhYi0wMmYwLTQ5MDUtODQ5My0wZTg5OTM3OWMzZjAiLCJpZCI6MjAwNTU2LCJpYXQiOjE3MTAwODA1Nzh9.bgQcU-Z80JpfcnCwRPPzOEpioYZgvxm6Y3Xzy16m2-g"
+    },
+    "ArcGISProperties":{
+        "ArcGIS_API":"AAPKd660bc981932485984212ded7e58eb78vSywn3bMu-pKwvbVjealrjlahrJVhBEYrs6S6waswMAsELSPCKPvNVItVAPNFAeY"
     }
 }
